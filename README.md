@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+```js
+const franco = {
+  pronouns: "he" | "him",
+  code: [Java, C/C++, Javascript, HTML, CSS, Python],
+  tools: [React],
+}
+```
+
 <!--
 **francosilva25/francosilva25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
