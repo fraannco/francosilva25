@@ -12,7 +12,7 @@ const franco = {
 ```
 
 You cand find me:
-- [LinkedIn](www.linkedin.com/in/ernesto-franco-silva-barra)
+- [LinkedIn](https://www.linkedin.com/in/ernesto-franco-silva-barra/)
 
 <!--
 **francosilva25/francosilva25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
