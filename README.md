@@ -11,6 +11,9 @@ const franco = {
 }
 ```
 
+## About Me:
+#### My name is Franco Silva and I am a software engineering student at the Universidad Nacional Mayor de San Marcos. I am enthusiastic about learning new technologies, passionate about web development, prototyping and database development. <br> <br>
+
 You cand find me:
 - [LinkedIn](https://www.linkedin.com/in/ernesto-franco-silva-barra/)
 
