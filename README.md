@@ -1,4 +1,4 @@
-### Hi Franco here 👋
+### Hi Franco here 👋💻
 
 ![Card](https://user-images.githubusercontent.com/67833630/151859933-eb2c20b6-e67e-4302-8f8f-3ef06eedf08c.png)
 
@@ -10,6 +10,9 @@ const franco = {
   tools: [React, Figma],
 }
 ```
+
+You cand find me:
+- [LinkedIn](www.linkedin.com/in/ernesto-franco-silva-barra)
 
 <!--
 **francosilva25/francosilva25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
