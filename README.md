@@ -5,7 +5,6 @@
 
 ```js
 const franco = {
-  pronouns: "he" | "him",
   code: [Java, C/C++, Javascript, HTML, CSS, Python],
   tools: [React, Figma],
 }
